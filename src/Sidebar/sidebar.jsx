@@ -120,13 +120,18 @@ const Sidebar = ({ handleToast }) => {
       </LeftSideContainer>
       <RightSideContainer>
         <SideText>
-          <a href="https://api.whatsapp.com/send?phone=8806520498">
+          <a
+            href="https://api.whatsapp.com/send?phone=8806520498"
+            target="_blank"
+          >
             (+91) 8806520498
           </a>
         </SideText>
         <Line />
         <SideText>
-          <a href="mailto:meghrup2519@gmail.com">meghrup2519@gmail.com</a>
+          <a href="mailto:meghrup2519@gmail.com" target="_blank">
+            meghrup2519@gmail.com
+          </a>
         </SideText>
         <Line />
       </RightSideContainer>
