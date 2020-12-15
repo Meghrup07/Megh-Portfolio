@@ -155,7 +155,7 @@ const ScrollDown = styled.div`
   align-items: center;
   width: 100px;
   color: white;
-  color: #ffc200;
+  color: #fff;
   font-size: 15px;
   font-family: "Asap", sans-serif;
   svg {
