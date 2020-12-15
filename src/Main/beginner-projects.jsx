@@ -182,7 +182,7 @@ const BeginnerProjects = () => {
       <CardRow>
         <Card>
           <Link
-            githubLink="https://github.com/Meghrup07/Megh-Portfolio"
+            githubLink="https://github.com/Meghrup07/Megh-Portfolio/"
             externalLink="https://meghshyam.netlify.app/"
           />
 
