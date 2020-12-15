@@ -132,7 +132,7 @@ const MobileContactInfo = ({ handleToast }) => {
           whileTap={{ scale: 0.85 }}
         >
           <a
-            href="https://api.whatsapp.com/send?phone=8806520498"
+            href="https://api.whatsapp.com/send?phone=(+91)8806520498"
             target="_blank"
             rel="noopener noreferrer"
           >
